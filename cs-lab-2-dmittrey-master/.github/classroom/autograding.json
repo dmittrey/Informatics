@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "cs-lab-2",
+      "setup": "",
+      "run": "python tester_2.pyc",
+      "input": "",
+      "output": "PASSED",
+      "comparison": "exact",
+      "timeout": 3,
+      "points": 1
+    }
+  ]
+}
