@@ -15,3 +15,6 @@
 ![Пятая лабораторная](5LAB.pdf)
 
 3. Драфт
+
+
+https://vk.com/away.php?to=https%3A%2F%2Fniuitmo-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2F312779_niuitmo_ru%2FEmK2bLnAG6ZAgIUcZzpvQQ0BftOR7vbQ8Yea_BgV8IZoUA%3Fe%3D7IyPyC&cc_key=
