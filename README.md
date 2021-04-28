@@ -16,5 +16,4 @@
 
 3. Драфт
 
-
-https://vk.com/away.php?to=https%3A%2F%2Fniuitmo-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2F312779_niuitmo_ru%2FEmK2bLnAG6ZAgIUcZzpvQQ0BftOR7vbQ8Yea_BgV8IZoUA%3Fe%3D7IyPyC&cc_key=
+https://niuitmo-my.sharepoint.com/personal/312779_niuitmo_ru/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F312779_niuitmo_ru%2FDocuments%2FУчебка%2Fхранение%20и%20обработка%20данных&originalPath=aHR0cHM6Ly9uaXVpdG1vLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsLzMxMjc3OV9uaXVpdG1vX3J1L0VtSzJiTG5BRzZaQWdJVWNaenB2UVEwQmZ0T1I3dmJROFllYV9CZ1Y4SVpvVUE_cnRpbWU9ejExMEJuc0syVWc
